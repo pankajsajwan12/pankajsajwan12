@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at [https://pankaj-singh-sajwan-protifilo.netlify.app/](https://pankaj-singh-sajwan-protifilo.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://pankaj-singh-sajwan-protifilo.netlify.app/]([https://pankaj-singh-sajwan-protifilo.netlify.app/](https://pankajsajwan12.github.io/))
 
 - 💬 Ask me about **JavaScript , React JS**
 
