@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Pankaj Singh Sajwan</h1>
-<h3 align="center">A Passionate Frontend Developer</h3>
+<h3 align="center">A Passionate Full Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajsajwan12&label=Profile%20views&color=0e75b6&style=flat" alt="pankajsajwan12" /> </p>
 
@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at [https://pankaj-singh-sajwan-protifilo.netlify.app/]([https://pankaj-singh-sajwan-protifilo.netlify.app/](https://pankajsajwan12.github.io/))
+- 👨‍💻 All of my projects are available at https://pankajsajwan12.github.io/
 
-- 💬 Ask me about **JavaScript , React JS**
+- 💬 Ask me about **JavaScript , React Js, Node Js, Express Js**
 
-- 📫 How to reach me **pankajsinghdenso17@gmail.com**
+- 📫 How to reach me **pankajsinghsajwan99@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1AL4dhGiR9SaLy22JDpJ-IZyYsWq-QNZs/view?usp=sharing](https://drive.google.com/file/d/1AL4dhGiR9SaLy22JDpJ-IZyYsWq-QNZs/view?usp=sharing)
 
